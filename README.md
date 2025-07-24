@@ -19,8 +19,8 @@
 
 ### 🐎 Prix Caprilli Page
 - View all recorded Prix Caprilli sessions.
-- Add new Prix Caprilli test entries.
-- Update existing test records.
+- Add new Prix Caprilli test session entries.
+- Update existing session records.
 - Display:
   - **Total Hours Worked**
 
@@ -28,10 +28,10 @@
 
 ## 🛠️ Built With
 
-- Java SE (Standard Edition)
-- Swing (for GUI)
+- Java 
+- Swing 
 - JDBC (Java Database Connectivity)
-- [Specify your database, e.g., SQLite, MySQL, or PostgreSQL]
+- PostgreSQL (Database is saved on locally)
 
 - ## 🤝 Contributions
 
