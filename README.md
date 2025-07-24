@@ -35,10 +35,14 @@
 
 ## 🗂️ Project Structure
 /src
-├── model/ # Data models for each work type
-├── view/ # GUI pages (MainFrame, ScribingPage, PrixCaprilliPage)
-├── controller/ # Logic for handling input, display, summaries
-├── database/ # DB connection and data access
+
+  ├── model/ # Data models for each work type
+
+  ├── view/ # GUI pages (MainFrame, ScribingPage, PrixCaprilliPage)
+
+  ├── controller/ # Logic for handling input, display, summaries
+
+  ├── database/ # DB connection and data access
 
 
 ## 🤝 Contributions
