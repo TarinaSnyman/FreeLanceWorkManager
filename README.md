@@ -33,7 +33,15 @@
 - JDBC (Java Database Connectivity)
 - PostgreSQL (Database is saved on locally)
 
-- ## 🤝 Contributions
+## 🗂️ Project Structure
+/src
+├── model/ # Data models for each work type
+├── view/ # GUI pages (MainFrame, ScribingPage, PrixCaprilliPage)
+├── controller/ # Logic for handling input, display, summaries
+├── database/ # DB connection and data access
+
+
+## 🤝 Contributions
 
 This is a personal project, but you're welcome to suggest improvements or submit feedback.
 
